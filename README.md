@@ -5,11 +5,9 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Allows you to flip between a single example question and answer
+Allows you to flip between a single example question and answer
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://vap3squad.xyz/memes/this.gif" width=200><br>
 
 ## Required
