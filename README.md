@@ -5,7 +5,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` App that allows you to see a flashcard-like question and answer as well as edit the question and answer
+App that allows you to see a flashcard-like question and answer as well as edit the question and answer
 
 ### App Walk-though
 
