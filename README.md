@@ -7,7 +7,7 @@ App that allows users to see a flashcard-like questions and answers as well as e
 
 ### App Walk-though
 
-<img src="http://vap3squad.xyz/memes/flashcardDatabase.gif" width=200><br>
+<img src="http://vap3squad.xyz/memes/flashcardDatabase4.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
