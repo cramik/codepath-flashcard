@@ -1,11 +1,11 @@
 package com.derek.doesnthavetobeflashcard;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class AddCardActivity extends AppCompatActivity {
 
@@ -21,6 +21,7 @@ public class AddCardActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
                 AddCardActivity.this.startActivity(intent);
+                overridePendingTransition(R.anim.fromright, R.anim.toleft);
                 finish();
             }
         });
